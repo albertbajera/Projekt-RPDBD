@@ -1,0 +1,7 @@
+pyspark==3.5.3
+confluent-kafka
+requests
+python-dotenv
+streamlit
+pandas
+psycopg2-binary

@@ -1,0 +1,6 @@
+{
+  "opensky.states": {"ts": 1730000000, "airport": "ATL", "icao24": "a1b2c3", "callsign": "DAL123", "lat": 33.64, "lon": -84.43, "baro_altitude": 450.0, "velocity": 70.0, "true_track": 270.0, "vertical_rate": -3.2, "on_ground": false},
+  "weather.current": {"ts": 1730000000, "airport": "ATL", "temperature_2m": 12.3, "wind_speed_10m": 18.0, "wind_gusts_10m": 34.0, "precipitation": 0.0, "cloud_cover": 40},
+  "alerts": {"ts": 1730000000, "airport": "ATL", "risk": 0.72, "level": "high", "reason": "porywy wiatru", "aircraft": 11, "delay_prob": 0.41},
+  "anomalies": {"ts": 1730000000, "airport": "ATL", "type": "holding", "icao24": "a1b2c3", "detail": "3 okrazenia w 10 min"}
+}

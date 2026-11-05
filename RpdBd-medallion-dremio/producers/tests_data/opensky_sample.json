@@ -1,0 +1,4 @@
+{"time": 1730000000, "states": [
+ ["a1b2c3","DAL123 ",  "United States", 1729999990, 1729999995, -84.43, 33.64, 450.0, false, 70.0, 270.0, -3.2, null, 480.0, "1234", false, 0],
+ ["d4e5f6", null, "United States", 1729999990, 1729999995, -84.40, 33.63, null, true, 0.0, null, null, null, null, null, false, 0]
+]}

@@ -1,0 +1,18 @@
+{
+  "status": "frozen",
+  "label": "delayed",
+  "label_rule": "DEPARTURE_DELAY > 15",
+  "threshold_minutes": 15,
+  "features": [
+    "airport",
+    "hour",
+    "day_of_week",
+    "month",
+    "temperature_2m",
+    "wind_speed_10m",
+    "wind_gusts_10m",
+    "precipitation",
+    "cloud_cover"
+  ],
+  "excluded": ["airline", "visibility", "*_DELAY", "ARRIVAL_*", "DEPARTURE_TIME"]
+}
